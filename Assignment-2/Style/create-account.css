@@ -1,0 +1,210 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.create-account-L8F {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.create-account-L8F .create-account--Gnb {
+  box-sizing: border-box;
+  padding: 5.6rem 29.6rem 10.9rem 29.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff7d4;
+}
+.create-account-L8F .create-account--Gnb .create-account-hd-aYP {
+  margin-bottom: 5.7rem;
+  box-sizing: border-box;
+  padding: 0rem 11.9rem 0rem 8.8rem;
+  width: 100%;
+  height: 14.2rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .create-account-hd-aYP .create-account-Gw1 {
+  margin: 0rem 0rem 0.9rem 4.3rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .create-account-hd-aYP .create-an-account-and-enjoy-a-world-of-learning-and-connections-MSf {
+  max-width: 64.1rem;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .frame-9-bM1 {
+  margin: 0rem 11.1rem 4rem 12.7rem;
+  width: calc(100% - 23.8rem);
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .frame-9-bM1 .frame-4-Gi3 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.5rem 2.3rem 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #555353;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #8e8383;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .frame-9-bM1 .frame-5-Xts {
+  box-sizing: border-box;
+  padding: 1.6rem 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #555353;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #8e8383;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .frame-9-bM1 .frame-6-QSs {
+  box-sizing: border-box;
+  padding: 1.6rem 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #555353;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #8e8383;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .frame-9-bM1 .frame-7-VUK {
+  box-sizing: border-box;
+  padding: 1.6rem 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #555353;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #8e8383;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .frame-9-bM1 .frame-8-Bc3 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.5rem 2rem 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #555353;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #8e8383;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .button-hover-4vj {
+  margin: 0rem 18.4rem 8rem 19.9rem;
+  width: calc(100% - 38.3rem);
+  height: 8rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #ffffff;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.0658rem #8e8383;
+  box-sizing: border-box;
+  background-color: #4c3d3d;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .already-have-an-account-login-6sR {
+  margin-left: 9.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2599999746;
+  color: #555353;
+  font-family: Outfit, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.create-account-L8F .create-account--Gnb .already-have-an-account-login-6sR .already-have-an-account-login-6sR-sub-0 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #555353;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+.create-account-L8F .create-account--Gnb .already-have-an-account-login-6sR .already-have-an-account-login-6sR-sub-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #110045;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+.create-account-L8F .create-account--Gnb .already-have-an-account-login-6sR .already-have-an-account-login-6sR-sub-2 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.175;
+  color: #110045;
+  font-family: Public Sans, 'Source Sans Pro';
+}

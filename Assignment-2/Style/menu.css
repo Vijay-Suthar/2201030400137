@@ -1,0 +1,358 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menu-zyM {
+  width: 100%;
+  height: 102.4rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.menu-zyM .menu--9rF {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #fff7d4;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.6399999857);
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #fff7d4;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .rectangle-48-pSb {
+  width: 132.6rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 4.6rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: rgba(255, 255, 255, 0.5099999905);
+  border-radius: 4.5rem;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .image-1-uU3 {
+  width: 13.4rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 5.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.5rem;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .skillswap-dQ3 {
+  width: 19.3rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 7.2rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-8bh {
+  width: 7.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 54.9rem;
+  top: 8.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .create-account-qW7 {
+  width: 19rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 64.5rem;
+  top: 8.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .login-kNB {
+  width: 7.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 85.9rem;
+  top: 8.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .rectangle-49-TnP {
+  width: 14.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 117.3rem;
+  top: 6.9rem;
+  background-color: rgba(237, 227, 227, 0.75);
+  border-radius: 4.5rem;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .search-ByH {
+  width: 8.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 119.7rem;
+  top: 7.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .about-us-hwd {
+  width: 11.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 95.2rem;
+  top: 8.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .skill-swap-coh {
+  width: 52.1rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 33.2rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #b08b98;
+  font-family: Rubik Wet Paint, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .unleash-the-power-of-your-neighborhood-trade-skills-services-and-resources-with-skillswap-jNX {
+  width: 96.6rem;
+  height: 10.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 51.2rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #acbe3c;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .rectangle-50-1L3 {
+  width: 40.8rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 67.8rem;
+  background-color: rgba(217, 217, 217, 0.4799999893);
+  border-radius: 4.5rem;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .get-started-jG3 {
+  width: 19.5rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 21.3rem;
+  top: 69.7rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif Caption, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy {
+  box-sizing: border-box;
+  padding: 3.8rem 0rem 13.3rem 0rem;
+  width: 44.4rem;
+  height: 68.2rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 5.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .collaboration-sctn--jQT {
+  margin: 0rem 10.1rem 5.3rem 10.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 5.7rem 0rem 6.7rem;
+  width: calc(100% - 20.3rem);
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #001029;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK {
+  margin-bottom: 19rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .auto-group-6cib-7fu {
+  width: 100%;
+  height: 10.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .auto-group-6cib-7fu .community-s9H {
+  box-sizing: border-box;
+  padding: 1.2rem 20.7rem 1.2rem 2.1rem;
+  width: 44.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 4.7rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #a7a7a7;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .auto-group-6cib-7fu .community-s9H .vector-Zno {
+  margin-right: 2.2rem;
+  width: 5.2rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .auto-group-6cib-7fu .community-s9H .community-hPD {
+  margin-top: 0.4rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 0.88;
+  letter-spacing: -0.025rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .auto-group-6cib-7fu .personal-details--Pmq {
+  box-sizing: border-box;
+  padding: 0.3rem 16.4rem 0.3rem 1.7rem;
+  width: 44.4rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #a7a7a7;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .auto-group-6cib-7fu .personal-details--Pmq .personal-details--6gF {
+  margin-right: 2.2rem;
+  width: 5.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .auto-group-6cib-7fu .personal-details--Pmq .personal-details-dgB {
+  margin-top: 0.4rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 0.88;
+  letter-spacing: -0.025rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .premim--8cw {
+  box-sizing: border-box;
+  padding: 1.1rem 24.1rem 0.1rem 1.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #a7a7a7;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .premim--8cw .premium-GDM {
+  margin-right: 2.2rem;
+  width: 5.2rem;
+  height: 4.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .group-31-NiK .premim--8cw .premium-zv3 {
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 0.88;
+  letter-spacing: -0.025rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .help-and-feedback--uXD {
+  margin: 0rem 7.4rem 0rem 7.5rem;
+  box-sizing: border-box;
+  padding: 0.358rem 0rem 0.358rem 0.388rem;
+  width: calc(100% - 14.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .help-and-feedback--uXD .ri-question-fill-1KM {
+  margin-right: 2.5342rem;
+  width: 3.878rem;
+  height: 3.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-zyM .menu--9rF .desktop-3-Wwh .create-account--Gvs .menu-frame-qZy .help-and-feedback--uXD .help-and-feedback-kGw {
+  margin-top: 0.7rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 0.88;
+  letter-spacing: -0.025rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

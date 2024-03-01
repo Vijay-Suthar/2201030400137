@@ -1,0 +1,252 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.personal-details-Vn7 {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.personal-details-Vn7 .personal-details--SxF {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #fff7d4;
+}
+.personal-details-Vn7 .personal-details--SxF .personal-details-nmD {
+  width: 40.1rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 53.7rem;
+  top: 4.9rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personal-details-Vn7 .personal-details--SxF .provide-your-personal-details-to-enhance-your-skill-swap-experience-and-connect-with-like-minded-individuals-h7V {
+  width: 133.3rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 12.7rem;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.personal-details-Vn7 .personal-details--SxF .button-hover-xp7 {
+  width: 18rem;
+  height: 6.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 105.2rem;
+  top: 85.1rem;
+  overflow: hidden;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #ffffff;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.0658rem #8e8383;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #4c3d3d;
+  border-radius: 1rem;
+}
+.personal-details-Vn7 .personal-details--SxF .frame-4-CCf {
+  width: 61.8rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 28.8rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #fbeaa0;
+  border-radius: 1rem;
+}
+.personal-details-Vn7 .personal-details--SxF .occupation-s3u {
+  width: 19.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 22.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2102272034;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.personal-details-Vn7 .personal-details--SxF .occupation-s3u .occupation-s3u-sub-0 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.personal-details-Vn7 .personal-details--SxF .occupation-s3u .occupation-s3u-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.personal-details-Vn7 .personal-details--SxF .frame-5-FTm {
+  width: 61.8rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 43.9rem;
+  overflow: hidden;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #525252;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #fbeaa0;
+  border-radius: 1rem;
+}
+.personal-details-Vn7 .personal-details--SxF .frame-6-Web {
+  box-sizing: border-box;
+  padding: 1rem 7.394rem 0.9rem 3.2rem;
+  width: 61.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 59.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #000000;
+  background-color: #fbeaa0;
+  border-radius: 1rem;
+}
+.personal-details-Vn7 .personal-details--SxF .frame-6-Web .vector-oNo {
+  margin: 0.206rem 22.622rem 0rem 0rem;
+  width: 2.028rem;
+  height: 1.8065rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.personal-details-Vn7 .personal-details--SxF .frame-6-Web .item-0-7PV {
+  margin-right: 22.45rem;
+  text-align: center;
+  font-size: 1.456rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #757575;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.personal-details-Vn7 .personal-details--SxF .frame-6-Web .item-0-7PV .item-0-7PV-sub-0 {
+  font-size: 2.756rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #757575;
+  font-family: Inter, 'Source Sans Pro';
+}
+.personal-details-Vn7 .personal-details--SxF .frame-6-Web .item-0-7PV .item-0-7PV-sub-1 {
+}
+.personal-details-Vn7 .personal-details--SxF .frame-6-Web .vector-8ZV {
+  margin-bottom: 0.102rem;
+  width: 1.9063rem;
+  height: 1.698rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.personal-details-Vn7 .personal-details--SxF .frame-7-eXq {
+  width: 61.8rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 74.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.personal-details-Vn7 .personal-details--SxF .skill-owned-Am5 {
+  width: 19.5rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 37.7rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personal-details-Vn7 .personal-details--SxF .experience-svP {
+  width: 18.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 52.3rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.personal-details-Vn7 .personal-details--SxF .location--Bw5 {
+  width: 15rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 67.2rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

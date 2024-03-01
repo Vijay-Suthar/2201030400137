@@ -1,0 +1,502 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.profile-Qe3 {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.profile-Qe3 .profile-95q {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #fff7d4;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj {
+  box-sizing: border-box;
+  padding: 5.472rem 9.3rem 0rem 9.4rem;
+  width: 110.9rem;
+  height: 86.8rem;
+  position: absolute;
+  left: 13.8rem;
+  top: 13.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 4.7rem;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .name--9zw {
+  margin: 0rem 37.561rem 1.7rem 33.996rem;
+  width: calc(100% - 71.5572rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .name--9zw .vector-sg3 {
+  margin: 0.091rem 1.503rem 0rem 0rem;
+  width: 3.1977rem;
+  height: 1.6224rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .name--9zw .k-PPV {
+  margin: 0rem 4.164rem 0.428rem 0rem;
+  font-size: 1.3264rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .name--9zw .ellipse-12-uMq {
+  margin: 0.071rem 2.381rem 0rem 0rem;
+  width: 0.9593rem;
+  height: 0.6084rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .name--9zw .vector-Rqy {
+  margin: 0.304rem 1.119rem 0rem 0rem;
+  width: 2.718rem;
+  height: 1.7238rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .name--9zw .item-60-xL7 {
+  margin-bottom: 0.428rem;
+  font-size: 1.3264rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .swap-UJT {
+  margin: 0rem 33.2rem 3.5rem 34.3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 9.4rem 0rem 9.6rem;
+  width: calc(100% - 67.5rem);
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.234rem;
+  color: #ffffff;
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #4c3d3d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B {
+  box-sizing: border-box;
+  padding: 2.7rem 0rem 0rem 7.9rem;
+  width: 100%;
+  height: 71rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T {
+  box-sizing: border-box;
+  padding-bottom: 0.4rem;
+  width: 21.6rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-pgnt-yPd {
+  margin: 0rem 12.543rem 1.5rem 0rem;
+  width: calc(100% - 12.5433rem);
+  display: flex;
+  align-items: center;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-pgnt-yPd .about-u2P {
+  margin-right: 0.3425rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #001029;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-pgnt-yPd .iconsax-linear-warning2-RmR {
+  margin-top: 0rem;
+  width: 1.5142rem;
+  height: 1.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ {
+  margin-left: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .icon--ghM {
+  margin: 0.1rem 1.7rem 0rem 0rem;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .icon--ghM .vector-DBV {
+  width: 1.4rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .icon--ghM .vector-ZWF {
+  margin-right: 0.1rem;
+  width: 1.5rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .icon--ghM .vector-WRV {
+  width: 1.6rem;
+  height: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .auto-group-jyb5-TLj {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .auto-group-jyb5-TLj .item-030-29843-74598-Cp7 {
+  margin-bottom: 1.2rem;
+  font-size: 1.3264rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .auto-group-jyb5-TLj .dubeylakshya00gmailcom-8By {
+  margin-bottom: 1rem;
+  font-size: 1.3264rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .about-section--e6T .auto-group-udhh-xFZ .auto-group-jyb5-TLj .https-wwwlinkedincom-feed--SyM {
+  font-size: 1.3264rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #0038ff;
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT {
+  width: 100%;
+  height: 66.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .discriptiion--ify {
+  box-sizing: border-box;
+  padding-bottom: 2.3rem;
+  width: 75.3rem;
+  height: 14.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .discriptiion--ify .auto-group-grqd-2gf {
+  margin: 0rem 61.243rem 2rem 0rem;
+  width: calc(100% - 61.2433rem);
+  display: flex;
+  align-items: center;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .discriptiion--ify .auto-group-grqd-2gf .discription-Myq {
+  margin-right: 0.4425rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #001029;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .discriptiion--ify .auto-group-grqd-2gf .iconsax-linear-warning2-6Rd {
+  margin-top: 0rem;
+  width: 1.5142rem;
+  height: 1.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .discriptiion--ify .i-am-a-highly-skilled-and-passionate-musician-with-over-8-years-of-experience-in-the-music-industry-with-a-strong-background-in-composing-and-producing-i-have-successfully-created-captivating-melodies-and-arrangements-across-various-genres-my-ability-to-connect-with-audiences-through-my-music-has-earned-me-a-solid-reputation-and-a-consistent-4-5-rating-Rio {
+  margin-left: 3rem;
+  max-width: 73.8rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK {
+  box-sizing: border-box;
+  padding-bottom: 7.6rem;
+  width: 84.3rem;
+  height: 54.2rem;
+  position: absolute;
+  left: 0;
+  top: 12rem;
+  overflow: hidden;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .auto-group-oycf-irK {
+  margin-bottom: 1rem;
+  width: 17.6rem;
+  height: 2.8rem;
+  position: relative;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .auto-group-oycf-irK .achievements-U4o {
+  width: 16rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #001129;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .auto-group-oycf-irK .medal-PhZ {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .released-two-successful-albums-that-garnered-positive-reviews-and-substantial-airplay-awarded-best-original-soundtrack-at-the-xyz-film-festival-for-my-composition-in-the-film-dreamscape-collaborated-with-renowned-artists-and-musicians-broadening-my-musical-horizons-vBh {
+  margin: 0rem 0rem 4.5rem 0.2rem;
+  max-width: 73.4rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.4189999898;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .education--vqu {
+  margin-bottom: 1rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #001129;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .bachelor-of-arts-in-music-production-xyz-university-year-testimonials-johns-musical-talent-is-truly-exceptional-his-compositions-and-arrangements-are-soul-stirring-and-captivating-working-with-him-has-been-an-absolute-pleasure-director-abc-films-john-is-a-versatile-musician-with-incredible-technical-skills-his-attention-to-detail-and-ability-to-adapt-to-different-genres-is-remarkable-bandmate-melody-makers-band-contact-email-johnsmithexamplecom-phone-1-123-456-7890-lets-make-music-that-touches-hearts-and-resonates-with-souls-connect-with-me-to-explore-exciting-collaborations-and-projects-4SK {
+  margin: 0rem 0rem 0.8rem 0.2rem;
+  max-width: 76.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.4189999898;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .bachelor-of-arts-in-music-production-xyz-university-year-testimonials-johns-musical-talent-is-truly-exceptional-his-compositions-and-arrangements-are-soul-stirring-and-captivating-working-with-him-has-been-an-absolute-pleasure-director-abc-films-john-is-a-versatile-musician-with-incredible-technical-skills-his-attention-to-detail-and-ability-to-adapt-to-different-genres-is-remarkable-bandmate-melody-makers-band-contact-email-johnsmithexamplecom-phone-1-123-456-7890-lets-make-music-that-touches-hearts-and-resonates-with-souls-connect-with-me-to-explore-exciting-collaborations-and-projects-4SK .bachelor-of-arts-in-music-production-xyz-university-year-testimonials-johns-musical-talent-is-truly-exceptional-his-compositions-and-arrangements-are-soul-stirring-and-captivating-working-with-him-has-been-an-absolute-pleasure-director-abc-films-john-is-a-versatile-musician-with-incredible-technical-skills-his-attention-to-detail-and-ability-to-adapt-to-different-genres-is-remarkable-bandmate-melody-makers-band-contact-email-johnsmithexamplecom-phone-1-123-456-7890-lets-make-music-that-touches-hearts-and-resonates-with-souls-connect-with-me-to-explore-exciting-collaborations-and-projects-4SK-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.4189999898;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .bachelor-of-arts-in-music-production-xyz-university-year-testimonials-johns-musical-talent-is-truly-exceptional-his-compositions-and-arrangements-are-soul-stirring-and-captivating-working-with-him-has-been-an-absolute-pleasure-director-abc-films-john-is-a-versatile-musician-with-incredible-technical-skills-his-attention-to-detail-and-ability-to-adapt-to-different-genres-is-remarkable-bandmate-melody-makers-band-contact-email-johnsmithexamplecom-phone-1-123-456-7890-lets-make-music-that-touches-hearts-and-resonates-with-souls-connect-with-me-to-explore-exciting-collaborations-and-projects-4SK .bachelor-of-arts-in-music-production-xyz-university-year-testimonials-johns-musical-talent-is-truly-exceptional-his-compositions-and-arrangements-are-soul-stirring-and-captivating-working-with-him-has-been-an-absolute-pleasure-director-abc-films-john-is-a-versatile-musician-with-incredible-technical-skills-his-attention-to-detail-and-ability-to-adapt-to-different-genres-is-remarkable-bandmate-melody-makers-band-contact-email-johnsmithexamplecom-phone-1-123-456-7890-lets-make-music-that-touches-hearts-and-resonates-with-souls-connect-with-me-to-explore-exciting-collaborations-and-projects-4SK-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.4189999898;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .bachelor-of-arts-in-music-production-xyz-university-year-testimonials-johns-musical-talent-is-truly-exceptional-his-compositions-and-arrangements-are-soul-stirring-and-captivating-working-with-him-has-been-an-absolute-pleasure-director-abc-films-john-is-a-versatile-musician-with-incredible-technical-skills-his-attention-to-detail-and-ability-to-adapt-to-different-genres-is-remarkable-bandmate-melody-makers-band-contact-email-johnsmithexamplecom-phone-1-123-456-7890-lets-make-music-that-touches-hearts-and-resonates-with-souls-connect-with-me-to-explore-exciting-collaborations-and-projects-4SK .bachelor-of-arts-in-music-production-xyz-university-year-testimonials-johns-musical-talent-is-truly-exceptional-his-compositions-and-arrangements-are-soul-stirring-and-captivating-working-with-him-has-been-an-absolute-pleasure-director-abc-films-john-is-a-versatile-musician-with-incredible-technical-skills-his-attention-to-detail-and-ability-to-adapt-to-different-genres-is-remarkable-bandmate-melody-makers-band-contact-email-johnsmithexamplecom-phone-1-123-456-7890-lets-make-music-that-touches-hearts-and-resonates-with-souls-connect-with-me-to-explore-exciting-collaborations-and-projects-4SK-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.4189999898;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .skills--5AP {
+  margin-bottom: 1rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #001129;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-Qe3 .profile-95q .auto-group-qdxm-Hxj .about-sctn-K4B .auto-group-xvas-AeT .achievements-zvK .composition-and-songwriting-music-production-and-arranging-instrumental-proficiency-guitar-piano-drums-studio-recording-and-live-performance-sound-mixing-and-mastering-collaborative-and-improvisational-skills-proficient-in-music-software-logic-pro-ableton-live-cRD {
+  margin-left: 0.3rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.4189999898;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-Qe3 .profile-95q .navigation-bar-okb {
+  box-sizing: border-box;
+  padding: 3.1rem 19.6rem 2.3rem 29.362rem;
+  width: 144rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.9rem rgba(0, 0, 0, 0.25);
+  background-color: #b79552;
+}
+.profile-Qe3 .profile-95q .navigation-bar-okb .ep-back-hqy {
+  margin: 0rem 11.85rem 0.9rem 0rem;
+  width: 2.5877rem;
+  height: 2.2503rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .navigation-bar-okb .search--qBV {
+  margin-right: 11.4rem;
+  box-sizing: border-box;
+  padding: 1.6rem 27.3rem 0.5rem 25.6rem;
+  height: 100%;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #fff7d4;
+  border-radius: 7.5rem;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .navigation-bar-okb .search--hUb {
+  margin-top: 0.1rem;
+  width: 6.4rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .name-section--1EP {
+  width: 79.3308rem;
+  height: 15rem;
+  position: absolute;
+  left: 36.4rem;
+  top: 14.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.profile-Qe3 .profile-95q .name-section--1EP .mask-group-jAP {
+  margin-right: 9.2rem;
+  width: 11.2rem;
+  height: 11.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .name-section--1EP .auto-group-ymcs-sGb {
+  margin-right: 28.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .name-section--1EP .auto-group-ymcs-sGb .james-smith-cV5 {
+  margin-bottom: 7.9rem;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.2102272034;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .name-section--1EP .auto-group-ymcs-sGb .james-smith-cV5 .james-smith-cV5-sub-0 {
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .name-section--1EP .auto-group-ymcs-sGb .james-smith-cV5 .james-smith-cV5-sub-1 {
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+}
+.profile-Qe3 .profile-95q .name-section--1EP .auto-group-ymcs-sGb .message--kjh {
+  margin-left: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.05rem 8.8rem 0.25rem 9rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.169rem;
+  color: #000000;
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #cdcdcd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.profile-Qe3 .profile-95q .name-section--1EP .vector-cmu {
+  margin-top: 1.2rem;
+  width: 4.4308rem;
+  height: 2.1839rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
