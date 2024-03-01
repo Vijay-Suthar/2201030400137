@@ -1,0 +1,21 @@
+step by step process.
+
+To create a Git repository named with your enrollment number and then create two folders named "assignment1" and "assignment2", you can follow these steps:Create a Git Repository:Open your terminal or command prompt.Navigate to the directory where you want to create the repository.Run the following commands:mkdir your_enrollment_number
+cd your_enrollment_number
+git initCreate Two Folders:While still in the terminal, run:mkdir assignment1
+mkdir assignment2Create a Word File Documenting the Process:Open a text editor or a word processor.Write down the steps you followed to create the repository and folders.Save the file with a descriptive name, like "Git_Repository_Creation_Process.docx".Commit Changes to Git:Back in the terminal, add the folders and the Word file to the Git repository:git add .Commit the changes:git commit -m "Added assignment1, assignment2 folders, and documentation file"Optional: Push to Remote Repository:If you have a remote repository (like on GitHub, GitLab, etc.), you can push your changes there:git remote add origin <remote_repository_URL>
+git branch -M main
+git push -u origin main
+
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to create the repository.
+3. Use the command git init <enrollment_number> to create a new Git repository with your enrollment number. For example, if your enrollment number is 12345, you would use git init 12345.
+4. Navigate into the newly created repository directory using the cd command. For example, cd 12345.
+5. Inside the repository directory, create two folders named Assignment_1 and Assignment_2 using the command mkdir Assignment_1 Assignment_2.
+6. Create a Word file to document the steps. You can use any text editor or word processor you prefer.
+7. In the Word file, write down each step of the task in detail, including commands used and explanations if necessary.
+8. Save the Word file in the root directory of your Git repository.
+9. Once you've completed documenting the steps, add the Word file to the repository using the command git add <filename> where <filename> is the name of your Word file.
+10. Commit the changes to the repository with a descriptive message using the command git commit -m "Added documentation for creating repository and folders".
+11. Optionally, push the changes to a remote repository like GitHub using the command git push origin master, assuming you've set up a remote repository and linked it to your local repository.
